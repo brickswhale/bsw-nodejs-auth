@@ -1,0 +1,22 @@
+{
+  "name": "bsw-nodejs-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brickswhale/bsw-nodejs-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brickswhale/bsw-nodejs-auth/issues"
+  },
+  "homepage": "https://github.com/brickswhale/bsw-nodejs-auth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
